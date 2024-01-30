@@ -6,7 +6,7 @@ void testMethod1()
   //Second commnad print(x)
   // edited by Rostislav Valev 220159539
   // edited once again by Rostislav Valev 220159539
-
+  // another test
   //Last line print('Good bye')
 }
 
